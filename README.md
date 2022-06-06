@@ -1,7 +1,10 @@
 # up_pro_v2
 
-A new Flutter application.
-
+Ce projet a fait objet de projet d'application réalisé par groupe de 3.
+Il consiste en la conception d'un portefeuille électronique pour la gestion d'un restaurant .
+Front: Flutter
+Backend : Dart
+Gestion de la base de données : firebase
 ## Getting Started
 
 This project is a starting point for a Flutter application.
