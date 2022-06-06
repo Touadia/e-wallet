@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "590451904317",
+    "project_id": "mon-portefeuille-c050b",
+    "storage_bucket": "mon-portefeuille-c050b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590451904317:android:20e6687504b8cc8a40bf54",
+        "android_client_info": {
+          "package_name": "com.project.up_pro_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590451904317-j5sh8qolc2n9chcf9ob9rqgi7q6v239l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkbE9n1zkLQgu-h5ZuRR3tLy9quZKjoVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590451904317-j5sh8qolc2n9chcf9ob9rqgi7q6v239l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590451904317-qkmjvl3obqmjn5cbv7l1seql8g77isu4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.project.upProV2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
